@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/menu_song"
+        android:title="Songs"
+        android:icon="@drawable/ic_action_music_1"
+        />
+
+    <item
+        android:id="@+id/menu_fav"
+        android:title="Fav"
+        android:icon="@drawable/ic_favorite"
+        />
+
+    <item
+        android:id="@+id/menu_history"
+        android:title="History"
+        android:icon="@drawable/ic_history"
+        />
+
+
+
+
+</menu>
